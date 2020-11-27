@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "_id": "8ff54106-8f2d-4aa0-ac97-2e299b035f8f",
+      "username": "le",
+      "password": "$2b$10$bgdT4RmxxBxaVcGGvPR6juZYC9yKYo8noTud6indWu.GAXY2BvZaG"
+    }
+  ],
+  "stock": [
+    {
+      "_id": "8db84d05-95ae-45d1-b59f-888cb30928ba",
+      "description": "this is iphone 11",
+      "name": "iphone 11",
+      "price": "19000000"
+    }
+  ]
+}
